@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75569598245",
+    "firebase_url": "https://fptflutter.firebaseio.com",
+    "project_id": "fptflutter",
+    "storage_bucket": "fptflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75569598245:android:141f2bbfc6250db16394cc",
+        "android_client_info": {
+          "package_name": "com.example.fptintagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75569598245-2hbs4099us2l867omn68auasit3vahaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jhIoigXgcnRX7m-3S2f9bpzIuaszgFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75569598245-2hbs4099us2l867omn68auasit3vahaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75569598245-kbjr57oqqjom76r4af32itvbdr9ir2gc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fptintagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
